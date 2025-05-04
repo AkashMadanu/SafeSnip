@@ -1,1 +1,1 @@
-
+SafeSnip is a URL shortening service with a critical security advantage: it verifies all URLs against Google's Safe Browsing API before generating shortened links, preventing the creation of shortcuts to malicious websites.
